@@ -7,4 +7,5 @@ To run it:
 2) create lenex environment 
    `conda create --name lenex --file lenex_env.txt`
 3) `pip install colossus`
+3) `conda activate lenex`
 4) `jupyter notebook`
